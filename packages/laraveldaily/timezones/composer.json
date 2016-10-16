@@ -1,0 +1,12 @@
+{
+    "name": "laraveldaily/timezones",
+    "description": "TimeZone testing",
+    "authors": [
+        {
+            "name": "Andrew Khouzam",
+            "email": "andrew.khouzam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
